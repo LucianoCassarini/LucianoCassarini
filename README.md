@@ -1,4 +1,5 @@
-
+Computer engineering student :computer: 
+I like to learn a little about everything :space_invader:
 
 <div align="center">
   <a href="https://github.com/LucianoCassarini">
