@@ -1,7 +1,7 @@
 [![Banner-Git4.png](https://i.postimg.cc/TPfk0LpD/Banner-Git4.png)](https://postimg.cc/4Y2bN3vf)
 
-Computer engineering student :computer: 
-I like to learn a little about everything :space_invader:
+######Computer engineering student :computer: 
+######I like to learn a little about everything :space_invader:
 
 ##
 
