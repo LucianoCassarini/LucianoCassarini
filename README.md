@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+  <img align="right" alt="gif_pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
   
 </div>
 
