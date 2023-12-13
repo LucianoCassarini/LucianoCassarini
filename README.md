@@ -18,7 +18,7 @@
 </div>
 
 ##
-<h3 aling="center">My Skills</h3>
+<div align="center"><h2>Skills</h2></div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=7)](https://skillicons.dev)
 
