@@ -22,7 +22,7 @@
     <img style="display: inline-block; margin-right: 10px;" alt="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4">
   </a>
 
-  <div style="display: inline-block; margin-right: 10px;" width="30"></div>
+  <div style="display: inline-block; margin-right: 10px;" width="10px"></div>
 
   <img style="display: inline-block;" alt="gif_pic" height="150" style="border-radius: 50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </div>
