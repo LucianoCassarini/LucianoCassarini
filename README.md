@@ -18,5 +18,5 @@
 </div>
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4)](https://skillicons.dev)
 
