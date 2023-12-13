@@ -1,6 +1,6 @@
 [![Banner-Git4.png](https://i.postimg.cc/TPfk0LpD/Banner-Git4.png)](https://postimg.cc/4Y2bN3vf)
 
-## Full Stack Developer :computer:  I like to learn a little about everything :space_invader:
+####Full Stack Developer :computer:  I like to learn a little about everything :space_invader:
 
 ##
 
@@ -19,4 +19,9 @@
 
 ##
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py)](https://skillicons.dev)
+
+##
+<div>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCassarini&layout=compact&langs_count=7&theme=react](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
 
