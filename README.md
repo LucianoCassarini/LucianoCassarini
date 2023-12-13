@@ -32,14 +32,11 @@
   <a href="https://www.linkedin.com/in/lcassarini/">
      <img style="display: inline-block; margin-right: 10px;" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=4">
   </a>
-  <a href="https://www.linkedin.com/in/lcassarini/">
-    <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://twitter.com/Lucho_Cassarini">
+     <img style="display: inline-block; margin-right: 10px;" alt="Twitter" src="https://skillicons.dev/icons?i=twitter&perline=4">
   </a>
-  <a href="https://www.linkedin.com/in/lcassarini/">
-    <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lcassarini/">
-    <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.instagram.com/lucianocassarini/">
+     <img style="display: inline-block; margin-right: 10px;" alt="Instagram	" src="https://skillicons.dev/icons?i=instagram&perline=4">
   </a>
 </div>
 
