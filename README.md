@@ -19,7 +19,7 @@
 <div>
   <h2>Social Networks</h2>
   <a href="https://www.linkedin.com/in/lcassarini/">
-     <img style="display: inline-block; margin-right: 10px;" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=4">
+     <img style="display: inline-block; margin-right: 100px;" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=4">
   </a>
   <a href="https://twitter.com/Lucho_Cassarini">
      <img style="display: inline-block; margin-right: 10px;" alt="Twitter" src="https://skillicons.dev/icons?i=twitter&perline=4">
