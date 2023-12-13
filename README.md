@@ -3,7 +3,7 @@
 <p> Full Stack Developer 💻 I like to learn a little about everything 👾 </p>
 
 ##
-<div>
+<div align="center">
   <h2>Skills</h2>
 </div>
 <div align="center">
