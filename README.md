@@ -39,7 +39,5 @@
   
 ##
   
-  ![Snake animation](https://github.com/LucianoCassarini/LucianoCassarini/blob/output/github-contribution-grid-snake.svg)
-  
  </div> 
  
