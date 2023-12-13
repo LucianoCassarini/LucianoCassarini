@@ -18,6 +18,8 @@
 </div>
 
 ##
+<h3>My Skills</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=7)](https://skillicons.dev)
 
 ##
