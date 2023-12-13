@@ -14,15 +14,14 @@
   </div>
 
 ##
-<div align="center">
+
+<div>
   <h2>Skills</h2>
-
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=7)](https://skillicons.dev)
-
-  <div>
-    <img align="right" alt="gif_pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-  </div>
+  
+  <img align="right" alt="gif_pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </div>
+
 
 ##
 <div align="center">
