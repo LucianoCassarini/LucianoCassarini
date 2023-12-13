@@ -14,10 +14,10 @@
   </div>
 
 ##
-<div align="center">
+<div>
   <h2>Skills</h2>
 </div>
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
     <img style="display: inline-block; margin-right: 10px;" alt="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4">
   </a>
