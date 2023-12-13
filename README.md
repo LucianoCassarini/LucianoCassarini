@@ -15,7 +15,7 @@
 
 ##
 
-<div>
+<div aling="center">
   <h2>Skills</h2>
   
   <a href="https://skillicons.dev">
