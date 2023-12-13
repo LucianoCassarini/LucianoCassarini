@@ -23,8 +23,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=7)](https://skillicons.dev)
 
 ##
-<div align="center"><h2>Social Networks</h2></div>
+
 <div>
+  <div align="center"><h2>Social Networks</h2></div>
   <a href="https://www.linkedin.com/in/lcassarini/">
     <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
