@@ -3,17 +3,6 @@
 ##Full Stack Developer :computer:  I like to learn a little about everything :space_invader:
 
 ##
-
-<div align="center">
-  <a href="https://github.com/LucianoCassarini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucianoCassarini&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCassarini&layout=compact&langs_count=7&theme=react"/>
-</div>
-  
- 
-  </div>
-
-##
 <div>
   <h2>Skills</h2>
 </div>
@@ -27,7 +16,7 @@
 
 
 ##
-<div align="center">
+<div>
   <h2>Social Networks</h2>
   <a href="https://www.linkedin.com/in/lcassarini/">
      <img style="display: inline-block; margin-right: 10px;" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=4">
@@ -38,5 +27,13 @@
   <a href="https://www.instagram.com/lucianocassarini/">
      <img style="display: inline-block; margin-right: 10px;" alt="Instagram	" src="https://skillicons.dev/icons?i=instagram&perline=4">
   </a>
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/LucianoCassarini">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucianoCassarini&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCassarini&layout=compact&langs_count=7&theme=react"/>
 </div>
 
