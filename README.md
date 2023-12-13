@@ -1,6 +1,6 @@
 [![Banner-Git4.png](https://i.postimg.cc/TPfk0LpD/Banner-Git4.png)](https://postimg.cc/4Y2bN3vf)
 
-##Full Stack Developer :computer: I like to learn a little about everything :space_invader:
+Full Stack Developer :computer: I like to learn a little about everything :space_invader:
 
 ##
 <div>
