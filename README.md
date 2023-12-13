@@ -18,13 +18,21 @@
 </div>
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=7)](https://skillicons.dev)
 
 ##
 <div>
   <a href="https://www.linkedin.com/in/lcassarini/">
     <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
+  <a href="https://www.linkedin.com/in/lcassarini/">
+    <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lcassarini/">
+    <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lcassarini/">
+    <img alt="LinkdIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
