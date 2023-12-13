@@ -20,7 +20,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4)](https://skillicons.dev)
   
-  <img align="right" alt="gif_pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+  <img align="right" alt="gif_pic" height="150" style="border-radius: 50px; margin-left: 10px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </div>
 
 
