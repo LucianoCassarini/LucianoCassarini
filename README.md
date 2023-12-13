@@ -8,7 +8,7 @@
 </div>
 <div>
   <a href="https://skillicons.dev">
-    <img style="display: inline-block; margin-right: 10px;" alt="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4">
+    <img style="display: inline-block;"  margin-right="150" alt="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4">
   </a>
 
   <img style="display: inline-block;" alt="gif_pic" height="150" style="border-radius: 50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
@@ -16,7 +16,7 @@
 
 
 ##
-<div>
+<div align="center">
   <h2>Social Networks</h2>
   <a href="https://www.linkedin.com/in/lcassarini/">
      <img style="display: inline-block; margin-right: 100px;" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=4">
