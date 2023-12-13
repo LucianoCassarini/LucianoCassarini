@@ -6,7 +6,7 @@
 <div>
   <h2>Skills</h2>
 </div>
-<div margin-right="150">
+<div align="center">
   <a href="https://skillicons.dev">
     <img style="display: inline-block;" alt="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4">
   </a>
