@@ -12,7 +12,7 @@
   
  
   </div>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <div style="display: inline_block"><br>
 <img align="right" alt="gif_pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </div>
@@ -26,4 +26,5 @@
   <a href="https://twitter.com/Lucho_Cassarini" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
   
  </div> 
- 
+
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
