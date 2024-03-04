@@ -8,7 +8,7 @@
 
 ##
 <div align="center">
-  <h2>Skills</h2>
+  <h2>Algunas tecnologías que he utilizado</h2>
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
