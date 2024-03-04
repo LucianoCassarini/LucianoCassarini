@@ -12,7 +12,7 @@
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img style="display: inline-block;" alt="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py&perline=4">
+    <img style="display: inline-block;" alt="My Skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,bootstrap,mysql,cs,dotnet,py,java&perline=4">
   </a>
 
   <img style="display: inline-block;" alt="gif_pic" height="150" style="border-radius: 50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
