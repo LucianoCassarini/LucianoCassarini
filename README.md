@@ -4,7 +4,7 @@
 
 [![portada-Editada.png](https://i.postimg.cc/LsQF3P7M/portada-Editada.png)](https://postimg.cc/67ZP98tH)
 
-<p> Full Stack Developer 💻 I like to learn a little about everything 👾 </p>
+<p> Full Stack Developer 💻👾 </p>
 
 ##
 <div align="center">
